@@ -1,2 +1,0 @@
-# ReactCardContact
-Created with CodeSandbox
